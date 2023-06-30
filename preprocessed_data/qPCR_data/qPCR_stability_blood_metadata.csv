@@ -1,0 +1,17 @@
+﻿Sample,Media,Spike-in,Time (h)
+24-1,Blood,EPN24-MCP,0
+24-2,Blood,EPN24-MCP,0.25
+24-3,Blood,EPN24-MCP,1
+24-4,Blood,EPN24-MCP,4
+24-5,Blood,EPN24-MCP,24
+24-6,Blood,Gag-MCP,0
+24-7,Blood,Gag-MCP,0.25
+24-8,Blood,Gag-MCP,1
+24-9,Blood,Gag-MCP,4
+24-10,Blood,Gag-MCP,24
+24-11,Blood,mRNA,0
+24-12,Blood,mRNA,0.25
+24-13,Blood,mRNA,1
+24-14,Blood,mRNA,4
+24-15,Blood,mRNA,24
+24-31,Blood,Blank,

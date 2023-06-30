@@ -1,0 +1,13 @@
+﻿Sample,Biological Set Name,RNA_input_ng,RNA_yield_ug,volume_supernatant_extracted_mL,description,xticklabel,xticklabel_simple,color,legend_label,well_group,replicate_group
+Well1,RT,1.3,4.28,0.14,Gag-MCP + mCherry-MS2x12 (RT),Gag-MCP + mCh-MS2x12 (RT),Gag-MCP + mCh-MS2x12,#54278f,Exporter and packaging signal,Gag-MCP + mCherry-MS2x12 (RT),1
+Well2,RT,1.3,3.4,0.14,Gag-MCP + mCherry-MS2x12 (RT),Gag-MCP + mCh-MS2x12 (RT),Gag-MCP + mCh-MS2x12,#54278f,Exporter and packaging signal,Gag-MCP + mCherry-MS2x12 (RT),2
+Well3,RT,1.3,3.32,0.14,Gag-MCP + mCherry-MS2x12 (RT),Gag-MCP + mCh-MS2x12 (RT),Gag-MCP + mCh-MS2x12,#54278f,Exporter and packaging signal,Gag-MCP + mCherry-MS2x12 (RT),3
+Well4,RT,1.3,4.24,0.14,Gag-MCP + mCherry (RT),Gag-MCP + mCh (RT),Gag-MCP + mCh,#006d2c,No packaging signal,Gag-MCP + mCherry (RT),2
+Well13,RT,1.3,4.56,0.14,mCherry-MS2x12 (RT),mCh-MS2x12 (RT),mCh-MS2x12,#969696,No exporter,mCherry-MS2x12 (RT),2
+Well14,RT,1.3,4.32,0.14,mCherry (RT),mCh (RT),mCh,#969696,No exporter,mCherry (RT),2
+Well1,No RT,1.3,4.28,0.14,Gag-MCP + mCherry-MS2x12 (No RT),Gag-MCP + mCh-MS2x12 (No RT),Gag-MCP + mCh-MS2x12,#807dba,Exporter and packaging signal,Gag-MCP + mCherry-MS2x12 (No RT),1
+Well2,No RT,1.3,3.4,0.14,Gag-MCP + mCherry-MS2x12 (No RT),Gag-MCP + mCh-MS2x12 (No RT),Gag-MCP + mCh-MS2x12,#807dba,Exporter and packaging signal,Gag-MCP + mCherry-MS2x12 (No RT),2
+Well3,No RT,1.3,3.32,0.14,Gag-MCP + mCherry-MS2x12 (No RT),Gag-MCP + mCh-MS2x12 (No RT),Gag-MCP + mCh-MS2x12,#807dba,Exporter and packaging signal,Gag-MCP + mCherry-MS2x12 (No RT),3
+Well4,No RT,1.3,4.24,0.14,Gag-MCP + mCherry (No RT),Gag-MCP + mCh (No RT),Gag-MCP + mCh,#238b45,No packaging signal,Gag-MCP + mCherry (No RT),2
+Well13,No RT,1.3,4.56,0.14,mCherry-MS2x12 (No RT),mCh-MS2x12 (No RT),mCh-MS2x12,#bdbdbd,No exporter,mCherry-MS2x12 (No RT),2
+Well14,No RT,1.3,4.32,0.14,mCherry (No RT),mCh (No RT),mCh,#bdbdbd,No exporter,mCherry (No RT),2

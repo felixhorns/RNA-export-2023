@@ -1,0 +1,7 @@
+﻿Sample,Condition,Exporter,Reporter,Exporter pID,Reporter pID
+Well1,mCherry,Gag-MCP,mCherry,2.1,2.1
+Well2,mCherry-MS2x2,Gag-MCP,mCherry-MS2x2,2.1,2.19
+Well3,mCherry-MS2x4,Gag-MCP,mCherry-MS2x4,2.1,2.2
+Well4,mCherry-MS2x6,Gag-MCP,mCherry-MS2x6,2.1,2.21
+Well5,mCherry-MS2x8,Gag-MCP,mCherry-MS2x8,2.1,2.22
+Well6,mCherry-MS2x12,Gag-MCP,mCherry-MS2x12,2.1,2.2

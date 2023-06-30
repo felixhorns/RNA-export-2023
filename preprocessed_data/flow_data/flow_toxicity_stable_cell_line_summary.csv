@@ -1,0 +1,10 @@
+﻿id,well,condition,cell_line,replicate,n_events,n_dead+
+1,C1,Exporter and Cargo,cFH38,1,10000,246
+2,D1,Exporter and Cargo,cFH38,2,10000,218
+3,E1,Exporter and Cargo,cFH38,3,10000,253
+4,C3,Cargo,cFH16,1,10000,262
+5,D3,Cargo,cFH16,2,10000,263
+6,E3,Cargo,cFH16,3,10000,273
+7,C5,Wild-type,HEK293T,1,10000,356
+8,D5,Wild-type,HEK293T,2,10000,373
+9,E5,Wild-type,HEK293T,3,10000,382

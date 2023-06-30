@@ -1,0 +1,29 @@
+﻿Sample,Biological Set Name,cells,exporter,condition,description,simple_description,xticklabel,xticklabel_simple,color,legend_label,export_tag_plus_or_minus
+Well1,Supernatant,cFH16 (mCh-MS2x8),pFH2.96-EPN1,,EPN1 + mCh-MS2x8,EPN1,EPN1 + mCh-MS2x8,EPN1,#969696,No RBD,+
+Well2,Supernatant,cFH15 (mCh),pFH2.96-EPN1,,EPN1 + mCh,EPN1,EPN1 + mCh,EPN1,#bdbdbd,No RBD and no packaging signal,-
+Well3,Supernatant,cFH16 (mCh-MS2x8),pFH2.97-EPN1-MCP,,EPN1-MCP + mCh-MS2x8,EPN1-MCP,EPN1-MCP + mCh-MS2x8,EPN1-MCP,#807dba,Exporter and packaging signal,+
+Well4,Supernatant,cFH15 (mCh),pFH2.97-EPN1-MCP,,EPN1-MCP + mCh,EPN1-MCP,EPN1-MCP + mCh,EPN1-MCP,#41ab5d,No packaging signal,-
+Well5,Supernatant,cFH16 (mCh-MS2x8),pFH2.98-EPN1-MCP_Myc,,EPN1-MCP_Myc + mCh-MS2x8,EPN1-MCP_Myc,EPN1-MCP_Myc + mCh-MS2x8,EPN1-MCP_Myc,#807dba,Exporter and packaging signal,+
+Well6,Supernatant,cFH15 (mCh),pFH2.98-EPN1-MCP_Myc,,EPN1-MCP_Myc + mCh,EPN1-MCP_Myc,EPN1-MCP_Myc + mCh,EPN1-MCP_Myc,#41ab5d,No packaging signal,-
+Well7,Supernatant,cFH16 (mCh-MS2x8),pFH2.99-EPN1-MCP_I,,EPN1-MCP_I + mCh-MS2x8,EPN1-MCP_I,EPN1-MCP_I + mCh-MS2x8,EPN1-MCP_I,#807dba,Exporter and packaging signal,+
+Well8,Supernatant,cFH15 (mCh),pFH2.99-EPN1-MCP_I,,EPN1-MCP_I + mCh,EPN1-MCP_I,EPN1-MCP_I + mCh,EPN1-MCP_I,#41ab5d,No packaging signal,-
+Well9,Supernatant,cFH16 (mCh-MS2x8),pFH2.100-EPN11,,EPN11 + mCh-MS2x8,EPN11,EPN11 + mCh-MS2x8,EPN11,#969696,No RBD,+
+Well10,Supernatant,cFH15 (mCh),pFH2.100-EPN11,,EPN11 + mCh,EPN11,EPN11 + mCh,EPN11,#bdbdbd,No RBD and no packaging signal,-
+Well11,Supernatant,cFH16 (mCh-MS2x8),pFH2.101-EPN11-MCP,,EPN11-MCP + mCh-MS2x8,EPN11-MCP,EPN11-MCP + mCh-MS2x8,EPN11-MCP,#9e9ac8,Exporter and packaging signal,+
+Well12,Supernatant,cFH15 (mCh),pFH2.101-EPN11-MCP,,EPN11-MCP + mCh,EPN11-MCP,EPN11-MCP + mCh,EPN11-MCP,#74c476,No packaging signal,-
+Well13,Supernatant,cFH16 (mCh-MS2x8),pFH2.102-EPN11-MCP_I,,EPN11-MCP_I + mCh-MS2x8,EPN11-MCP_I,EPN11-MCP_I + mCh-MS2x8,EPN11-MCP_I,#9e9ac8,Exporter and packaging signal,+
+Well14,Supernatant,cFH15 (mCh),pFH2.102-EPN11-MCP_I,,EPN11-MCP_I + mCh,EPN11-MCP_I,EPN11-MCP_I + mCh,EPN11-MCP_I,#74c476,No packaging signal,-
+Well15,Supernatant,cFH16 (mCh-MS2x8),pFH2.103-EPN11-MCP_p6,,EPN11-MCP_p6 + mCh-MS2x8,EPN11-MCP_p6,EPN11-MCP_p6 + mCh-MS2x8,EPN11-MCP_p6,#9e9ac8,Exporter and packaging signal,+
+Well16,Supernatant,cFH15 (mCh),pFH2.103-EPN11-MCP_p6,,EPN11-MCP_p6 + mCh,EPN11-MCP_p6,EPN11-MCP_p6 + mCh,EPN11-MCP_p6,#74c476,No packaging signal,-
+Well17,Supernatant,cFH16 (mCh-MS2x8),pFH2.104-EPN24,,EPN24 + mCh-MS2x8,EPN24,EPN24 + mCh-MS2x8,EPN24,#969696,No RBD,+
+Well18,Supernatant,cFH15 (mCh),pFH2.104-EPN24,,EPN24 + mCh,EPN24,EPN24 + mCh,EPN24,#bdbdbd,No RBD and no packaging signal,-
+Well19,Supernatant,cFH16 (mCh-MS2x8),pFH2.105-EPN24-MCP,,EPN24-MCP + mCh-MS2x8,EPN24-MCP,EPN24-MCP + mCh-MS2x8,EPN24-MCP,#bcbddc,Exporter and packaging signal,+
+Well20,Supernatant,cFH15 (mCh),pFH2.105-EPN24-MCP,,EPN24-MCP + mCh,EPN24-MCP,EPN24-MCP + mCh,EPN24-MCP,#a1d99b,No packaging signal,-
+Well21,Supernatant,cFH16 (mCh-MS2x8),pFH2.106-EPN24-MCP_I,,EPN24-MCP_I + mCh-MS2x8,EPN24-MCP_I,EPN24-MCP_I + mCh-MS2x8,EPN24-MCP_I,#bcbddc,Exporter and packaging signal,+
+Well22,Supernatant,cFH15 (mCh),pFH2.106-EPN24-MCP_I,,EPN24-MCP_I + mCh,EPN24-MCP_I,EPN24-MCP_I + mCh,EPN24-MCP_I,#a1d99b,No packaging signal,-
+Well23,Supernatant,cFH16 (mCh-MS2x8),pFH2.107-EPN24-MCP_p6,,EPN24-MCP_p6 + mCh-MS2x8,EPN24-MCP_p6,EPN24-MCP_p6 + mCh-MS2x8,EPN24-MCP_p6,#bcbddc,Exporter and packaging signal,+
+Well24,Supernatant,cFH15 (mCh),pFH2.107-EPN24-MCP_p6,,EPN24-MCP_p6 + mCh,EPN24-MCP_p6,EPN24-MCP_p6 + mCh,EPN24-MCP_p6,#a1d99b,No packaging signal,-
+Well25,Supernatant,cFH16 (mCh-MS2x8),pFH2.30-Gag-MCP-dpol,,Gag-MCP + mCh-MS2x8,Gag-MCP,Gag-MCP + mCh-MS2x8,Gag-MCP,#6a51a3,Exporter and packaging signal,+
+Well26,Supernatant,cFH15 (mCh),pFH2.30-Gag-MCP-dpol,,Gag-MCP + mCh,Gag-MCP,Gag-MCP + mCh,Gag-MCP,#238b45,No packaging signal,-
+Well27,Supernatant,cFH16 (mCh-MS2x8),,,mCh-MS2x8,mCh-MS2x8 alone,mCh-MS2x8,mCh-MS2x8 alone,#cccccc,No exporter,+
+Well28,Supernatant,cFH15 (mCh),,,mCh,mCh alone,mCh,mCh alone,#cccccc,No exporter,-

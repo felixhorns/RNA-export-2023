@@ -1,0 +1,11 @@
+﻿Plate,Well,Sample,description,exporter,reporter,xticklabel,xticklabel_simple,color,legend_label,export_tag_plus_or_minus,export_tag
+2,A06,16-29,No DNA,,,No DNA,No DNA,#969696,No RBD,+,-
+2,A07,16-30,EPN24-MCP + mCh-MS2x12,pFH2.203 EPN24-MCP-IRES-GFP,pFH2.2 mCherry-MS2x12,EPN24-MCP + mCh-MS2x12,EPN24-MCP + mCh-MS2x12,#bdbdbd,No RBD and no packaging signal,-,MS2
+2,A08,16-31,EPN24-MCP + mCh-PP7x12,pFH2.203 EPN24-MCP-IRES-GFP,pFH2.214 mCherry-PP7x12,EPN24-MCP + mCh-PP7x12,EPN24-MCP + mCh-PP7x12,#807dba,Exporter and packaging signal,+,PP7
+2,A09,16-32,EPN24-MCP + mCh,pFH2.203 EPN24-MCP-IRES-GFP,pFH2.1 mCherry,EPN24-MCP + mCh,EPN24-MCP + mCh,#41ab5d,No packaging signal,-,-
+2,A10,16-33,EPN24-PCP + mCh-MS2x12,pFH2.217 EPN24-PCP-IRES-GFP,pFH2.2 mCherry-MS2x12,EPN24-PCP + mCh-MS2x12,EPN24-PCP + mCh-MS2x12,#807dba,Exporter and packaging signal,+,MS2
+2,A11,16-34,EPN24-PCP + mCh-PP7x12,pFH2.217 EPN24-PCP-IRES-GFP,pFH2.214 mCherry-PP7x12,EPN24-PCP + mCh-PP7x12,EPN24-PCP + mCh-PP7x12,#41ab5d,No packaging signal,-,PP7
+2,A12,16-35,EPN24-PCP + mCh,pFH2.217 EPN24-PCP-IRES-GFP,pFH2.1 mCherry,EPN24-PCP + mCh,EPN24-PCP + mCh,#807dba,Exporter and packaging signal,+,-
+2,D01,16-36,mCh-MS2x12,,pFH2.2 mCherry-MS2x12,mCh-MS2x12,mCh-MS2x12,#41ab5d,No packaging signal,-,MS2
+2,D02,16-37,mCh-PP7x12,,pFH2.214 mCherry-PP7x12,mCh-PP7x12,mCh-PP7x12,#969696,No RBD,+,PP7
+2,D03,16-38,mCh,,pFH2.1 mCherry,mCh,mCh,#bdbdbd,No RBD and no packaging signal,-,-

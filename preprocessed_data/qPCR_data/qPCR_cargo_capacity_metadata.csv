@@ -1,0 +1,49 @@
+﻿Sample,Supernatant_or_Cell,Condition,Type,Replicate,transcript_length,LOD
+33-1,Supernatant,Cre-MS2x12 +0 kb + EPN24-MCP,Exporter,1,2,4.599862649
+33-2,Supernatant,Cre-MS2x12 +0 kb + EPN24-MCP,Exporter,2,2,4.599862649
+33-3,Supernatant,Cre-MS2x12 +0 kb + EPN24-MCP,Exporter,3,2,4.599862649
+33-4,Supernatant,Cre-MS2x12 +3 kb + EPN24-MCP,Exporter,1,5,4.599862649
+33-5,Supernatant,Cre-MS2x12 +3 kb + EPN24-MCP,Exporter,2,5,4.599862649
+33-6,Supernatant,Cre-MS2x12 +3 kb + EPN24-MCP,Exporter,3,5,4.599862649
+33-7,Supernatant,Cre-MS2x12 +5.4 kb + EPN24-MCP,Exporter,1,7.4,4.599862649
+33-8,Supernatant,Cre-MS2x12 +5.4 kb + EPN24-MCP,Exporter,2,7.4,4.599862649
+33-9,Supernatant,Cre-MS2x12 +5.4 kb + EPN24-MCP,Exporter,3,7.4,4.599862649
+33-10,Supernatant,Cre-MS2x12 +7.8 kb + EPN24-MCP,Exporter,1,9.8,4.599862649
+33-11,Supernatant,Cre-MS2x12 +7.8 kb + EPN24-MCP,Exporter,2,9.8,4.599862649
+33-12,Supernatant,Cre-MS2x12 +7.8 kb + EPN24-MCP,Exporter,3,9.8,4.599862649
+33-13,Supernatant,Cre-MS2x12 +0 kb,No exporter,1,2,4.599862649
+33-14,Supernatant,Cre-MS2x12 +3 kb,No exporter,1,5,4.599862649
+33-15,Supernatant,Cre-MS2x12 +5.4 kb,No exporter,1,7.4,4.599862649
+33-16,Supernatant,Cre-MS2x12 +7.8 kb,No exporter,1,9.8,4.599862649
+33-17,Supernatant,Cre-MS2x12 +0 kb + stuffer,Stuffer,1,2,4.599862649
+33-18,Supernatant,Cre-MS2x12 +3 kb + stuffer,Stuffer,1,5,4.599862649
+33-19,Supernatant,Cre-MS2x12 +5.4 kb + stuffer,Stuffer,1,7.4,4.599862649
+33-20,Supernatant,Cre-MS2x12 +7.8 kb + stuffer,Stuffer,1,9.8,4.599862649
+33-21,Supernatant,No DNA,No DNA,1,,4.599862649
+33-22,Supernatant,No DNA,No DNA,2,,4.599862649
+33-23,Supernatant,WT,WT,1,,4.599862649
+33-24,Supernatant,WT,WT,2,,4.599862649
+33c-1,Cell,Cre-MS2x12 +0 kb + EPN24-MCP,Exporter,1,2,5.713248134
+33c-2,Cell,Cre-MS2x12 +0 kb + EPN24-MCP,Exporter,2,2,5.713248134
+33c-3,Cell,Cre-MS2x12 +0 kb + EPN24-MCP,Exporter,3,2,5.713248134
+33c-4,Cell,Cre-MS2x12 +3 kb + EPN24-MCP,Exporter,1,5,5.713248134
+33c-5,Cell,Cre-MS2x12 +3 kb + EPN24-MCP,Exporter,2,5,5.713248134
+33c-6,Cell,Cre-MS2x12 +3 kb + EPN24-MCP,Exporter,3,5,5.713248134
+33c-7,Cell,Cre-MS2x12 +5.4 kb + EPN24-MCP,Exporter,1,7.4,5.713248134
+33c-8,Cell,Cre-MS2x12 +5.4 kb + EPN24-MCP,Exporter,2,7.4,5.713248134
+33c-9,Cell,Cre-MS2x12 +5.4 kb + EPN24-MCP,Exporter,3,7.4,5.713248134
+33c-10,Cell,Cre-MS2x12 +7.8 kb + EPN24-MCP,Exporter,1,9.8,5.713248134
+33c-11,Cell,Cre-MS2x12 +7.8 kb + EPN24-MCP,Exporter,2,9.8,5.713248134
+33c-12,Cell,Cre-MS2x12 +7.8 kb + EPN24-MCP,Exporter,3,9.8,5.713248134
+33c-13,Cell,Cre-MS2x12 +0 kb,No exporter,1,2,5.713248134
+33c-14,Cell,Cre-MS2x12 +3 kb,No exporter,1,5,5.713248134
+33c-15,Cell,Cre-MS2x12 +5.4 kb,No exporter,1,7.4,5.713248134
+33c-16,Cell,Cre-MS2x12 +7.8 kb,No exporter,1,9.8,5.713248134
+33c-17,Cell,Cre-MS2x12 +0 kb + stuffer,Stuffer,1,2,5.713248134
+33c-18,Cell,Cre-MS2x12 +3 kb + stuffer,Stuffer,1,5,5.713248134
+33c-19,Cell,Cre-MS2x12 +5.4 kb + stuffer,Stuffer,1,7.4,5.713248134
+33c-20,Cell,Cre-MS2x12 +7.8 kb + stuffer,Stuffer,1,9.8,5.713248134
+33c-21,Cell,No DNA,No DNA,1,,5.713248134
+33c-22,Cell,No DNA,No DNA,2,,5.713248134
+33c-23,Cell,WT,WT,1,,5.713248134
+33c-24,Cell,WT,WT,2,,5.713248134
