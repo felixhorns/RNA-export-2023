@@ -39,6 +39,10 @@ DNA and RNA sequencing reads are available from the Sequence Read Archive (SRA) 
 
 Software in the `resources` directory may need to be installed or compiled on your local system to be operational.
 
+## Environment
+
+The primary environment uses Python 3.7.7 and is specified in `analysis/environment.yml`. Use of the Conda package manger is recommended.
+
 ## Disclaimer
 
 This project is not maintained. Software is provided as is and requests for support may not be addressed.
