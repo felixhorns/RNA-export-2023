@@ -6,7 +6,7 @@ This repository holds code for analysis and plotting related to the development 
 
 If you use this code, please cite this paper.
 
-Coming soon
+Horns *et al.*, Engineering RNA export for measurement and manipulation of living cells, *Cell* **186** (2023).
 
 ## Configuration
 

@@ -1,1 +1,0 @@
-source /scratch/CellFreeReporter/scripts/do_all_merge_parse_barcodes.sh /scratch/CellFreeReporter/pipelines/220511_M05340_0338_000000000-KC38R_merge_parse_barcodes/seedfile.txt
