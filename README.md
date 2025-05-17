@@ -25,7 +25,7 @@ The repository is organized into directories that contain code and data. The con
 
 ## Obtaining data
 
-This entire repository, including all data, is freely available from CaltechDATA. (TODO provide link)
+This entire repository, including all data, is freely available from CaltechDATA at the [archive associated with the paper](https://data.caltech.edu/records/8zr8w-t0f77).
 
 In the Github repository, code and small data files (e.g. qPCR data) are provided. However, larger data files are not included on Github because of storage constraints. The larger data files are freely available from CaltechDATA.
 
